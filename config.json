@@ -1,0 +1,8 @@
+{
+  "source_file": "input.txt",
+  "target_language": "de",
+  "output_type": "file",
+  "max_characters": 1000,
+  "max_words": 200,
+  "max_sentences": 5
+}

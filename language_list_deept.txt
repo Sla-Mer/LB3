@@ -1,0 +1,136 @@
+N Language      ISO-639 code Text
+------------------------------------------------------------
+1  af           afrikaans    Lank lewe die koning
+2  sq           albanian     Rroftë mbreti
+3  am           amharic      ንጉሱ ለዘላለም ይኑር
+4  ar           arabic       يعيش الملك
+5  hy           armenian     Կեցցե թագավորը
+6  as           assamese     ৰজা জীয়াই থাকক
+7  ay           aymara       Jaya pacha reyixa
+8  az           azerbaijani  Yaşasın padşah
+9  bm           bambara      Masakɛ ka ɲɛnamaya
+10 eu           basque       Bizi ezazu erregea
+11 be           belarusian   Няхай жыве кароль
+12 bn           bengali      রাজা দীর্ঘজীবী হোক
+13 bho          bhojpuri     राजा के जिंदाबाद बा
+14 bs           bosnian      Živeo kralj
+15 bg           bulgarian    Да живее царят
+16 ca           catalan      Visca el rei
+17 ceb          cebuano      Mabuhi ang hari
+18 ny           chichewa     Mfumu ikhale ndi moyo wautali
+19 zh-CN        chinese (simplified) 吾皇万岁
+20 zh-TW        chinese (traditional) 吾皇萬歲
+21 co           corsican     Viva u rè
+22 hr           croatian     Živio kralj
+23 cs           czech        Ať žije král
+24 da           danish       Længe leve kongen
+25 dv           dhivehi      ރަސްގެފާނު ދިރިހުއްޓެވެ
+26 doi          dogri        राजा जी जिंदाबाद
+27 nl           dutch        Lang leve de koning
+28 en           english      Long live the king
+29 eo           esperanto    Longe vivu la reĝo
+30 et           estonian     Elagu kuningas
+31 ee           ewe          Fia la nanɔ agbe didi
+32 tl           filipino     Mabuhay ang hari
+33 fi           finnish      Eläköön kuningas
+34 fr           french       Longue vie au roi
+35 fy           frisian      Lang libje de kening
+36 gl           galician     Viva o rei
+37 ka           georgian     Გაუმარჯოს მეფეს
+38 de           german       Lang Lebe Der König
+39 el           greek        Να ζήσει ο βασιλιάς
+40 gn           guarani      Toikove mburuvicha guasu
+41 gu           gujarati     રાજા લાંબુ જીવો
+42 ht           haitian creole Viv wa a
+43 ha           hausa        Ran sarki ya dade
+44 haw          hawaiian     E ola ke alii
+45 iw           hebrew       יחי המלך
+46 hi           hindi        राजा अमर रहे
+47 hmn          hmong        Vajntxwv kav ntev
+48 hu           hungarian    Éljen a király
+49 is           icelandic    Lengi lifi konungurinn
+50 ig           igbo         Ogologo ndu eze
+51 ilo          ilocano      Agbiag ti ari
+52 id           indonesian   Panjang umur raja
+53 ga           irish        Go maire sibh an rí
+54 it           italian      Lunga vita al Re
+55 ja           japanese     王様万歳
+56 jw           javanese     Urip sang prabu
+57 kn           kannada      ರಾಜನು ದೀರ್ಘ ಕಾಲ ಬಾಳಲಿ
+58 kk           kazakh       Патша аман болсын
+59 km           khmer        សូម​ព្រះ​រាជា​គង់​យូរ
+60 rw           kinyarwanda  Harakabaho umwami
+61 gom          konkani      राजा जियेवं
+62 ko           korean       폐하, 만수 무 강하 시옵소서
+63 kri          krio         Di kiŋ liv lɔng
+64 ku           kurdish (kurmanji) Bijî padîşah
+65 ckb          kurdish (sorani) ته‌مه‌ن درێژی بۆ پاشا
+66 ky           kyrgyz       Жашасын падыша
+67 lo           lao          ອາຍຸຍືນກະສັດ
+68 la           latin        Vivat rex
+69 lv           latvian      Lai dzīvo karalis
+70 ln           lingala      Mokonzi azala na bomoi molai
+71 lt           lithuanian   Tegyvuoja karalius
+72 lg           luganda      Kabaka awangaale
+73 lb           luxembourgish Vive de Kinnek
+74 mk           macedonian   Да живее кралот
+75 mai          maithili     राजा जिन्दाबाद
+76 mg           malagasy     Ho ela velona ny Mpanjaka
+77 ms           malay        Daulat Tuanku
+78 ml           malayalam    രാജാവ് നീണാൾ വാഴട്ടെ
+79 mt           maltese      Viva r-re
+80 mi           maori        Kia ora te kingi
+81 mr           marathi      राजा चिरायू होवो
+82 mni-Mtei     meiteilon (manipuri) ꯅꯤꯡꯊꯧ ꯑꯁꯤ ꯍꯤꯡꯗꯨꯅꯥ ꯂꯩꯌꯨ꯫
+83 lus          mizo         Lal dam rei rawh se
+84 mn           mongolian    Хаан урт наслаарай
+85 my           myanmar      ဘုရင်ကြီး သက်တော်ရာကျော်ရှည်ပါစေ။
+86 ne           nepali       राजा अमर रहोस
+87 no           norwegian    Lenge leve kongen
+88 or           odia (oriya) ରାଜା ଦୀର୍ଘଜୀବୀ ହୁଅନ୍ତୁ
+89 om           oromo        Mootiin nuuf jiraadhu
+90 ps           pashto       پاچا دې ژوندی وي
+91 fa           persian      زنده باد شاه
+92 pl           polish       Niech żyje król
+93 pt           portuguese   Vida longa ao rei
+94 pa           punjabi      ਰਾਜੇ ਜਿੰਦਾਬਾਦ
+95 qu           quechua      Kawsachun rey
+96 ro           romanian     Trăiască Regele
+97 ru           russian      Да здравствует король
+98 sm           samoan       Ia soifua le tupu
+99 sa           sanskrit     आयुः राजा
+100 gd           scots gaelic Gu ma fada beò an rìgh
+101 nso          sepedi       A phele kgoši
+102 sr           serbian      Живео краљ
+103 st           sesotho      Morena o phele
+104 sn           shona        Mambo ngaararame
+105 sd           sindhi       بادشاھ زنده باد
+106 si           sinhala      දීර්ඝායුෂ ලැබේවා රජතුමනි
+107 sk           slovak       Nech žije kráľ
+108 sl           slovenian    Naj živi kralj
+109 so           somali       Boqorku ha noolaado
+110 es           spanish      Larga vida al rey
+111 su           sundanese    Hirup raja
+112 sw           swahili      Uishi mfalme
+113 sv           swedish      Länge leve kungen
+114 tg           tajik        Зинда бод шоҳ
+115 ta           tamil        அரசன் வாழ்க
+116 tt           tatar        Озак яшәгез патша
+117 te           telugu       చిరకాలం జీవించు రాజా
+118 th           thai         ทรงพระเจริญ
+119 ti           tigrinya     ንጉስ ይንበር
+120 ts           tsonga       A hanye hosi
+121 tr           turkish      Kralım çok yaşa
+122 tk           turkmen      Patyşa uzak ýaşasyn
+123 ak           twi          Ɔhene no ntra ase kyɛ
+124 uk           ukrainian    Хай живе король
+125 ur           urdu         بادشاہ زندہ باد
+126 ug           uyghur       پادىشاھ ياشىسۇن
+127 uz           uzbek        Yashasin podshoh
+128 vi           vietnamese   Đức vua vạn tuế
+129 cy           welsh        Hir oes i'r brenin
+130 xh           xhosa        Phila ngonaphakade kumkani
+131 yi           yiddish      לאנג לעבן זאל דער קעניג
+132 yo           yoruba       E ku oba
+133 zu           zulu         Iphile nkosi
+Ok

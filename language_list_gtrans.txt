@@ -1,0 +1,111 @@
++-----+-----------------------+--------------+-------------------------------+
+|  N  |       Language        | ISO-639 code |             Text              |
++-----+-----------------------+--------------+-------------------------------+
+|  1  |       afrikaans       |      af      |     Lank lewe die koning      |
+|  2  |       albanian        |      sq      |         Rroftë mbreti         |
+|  3  |        amharic        |      am      |         ንጉሱ ለዘላለም ይኑር         |
+|  4  |        arabic         |      ar      |          يعيش الملك           |
+|  5  |       armenian        |      hy      |        Կեցցե թագավորը         |
+|  6  |      azerbaijani      |      az      |        Yaşasın padşah         |
+|  7  |        basque         |      eu      |      Bizi ezazu erregea       |
+|  8  |      belarusian       |      be      |       Няхай жыве кароль       |
+|  9  |        bengali        |      bn      |      রাজা দীর্ঘজীবী হোক       |
+| 10  |        bosnian        |      bs      |          Živeo kralj          |
+| 11  |       bulgarian       |      bg      |        Да живее царят         |
+| 12  |        catalan        |      ca      |         Visca el rei          |
+| 13  |        cebuano        |     ceb      |      Lang Lebe Der König      |
+| 14  |       chichewa        |      ny      | Mfumu ikhale ndi moyo wautali |
+| 15  | chinese (simplified)  |    zh-cn     |             吾皇万岁              |
+| 16  | chinese (traditional) |    zh-tw     |             吾皇萬歲              |
+| 17  |       corsican        |      co      |           Viva u rè           |
+| 18  |       croatian        |      hr      |          Živio kralj          |
+| 19  |         czech         |      cs      |         Ať žije král          |
+| 20  |        danish         |      da      |       Længe leve kongen       |
+| 21  |         dutch         |      nl      |      Lang leve de koning      |
+| 22  |        english        |      en      |      Long live the king       |
+| 23  |       esperanto       |      eo      |      Longe vivu la reĝo       |
+| 24  |       estonian        |      et      |        Elagu kuningas         |
+| 25  |       filipino        |      tl      |       Mabuhay ang hari        |
+| 26  |        finnish        |      fi      |       Eläköön kuningas        |
+| 27  |        french         |      fr      |       Longue vie au roi       |
+| 28  |        frisian        |      fy      |     Lang libje de kening      |
+| 29  |       galician        |      gl      |          Viva o rei           |
+| 30  |       georgian        |      ka      |        Გაუმარჯოს მეფეს        |
+| 31  |        german         |      de      |      Lang Lebe Der König      |
+| 32  |         greek         |      el      |      Να ζήσει ο βασιλιάς      |
+| 33  |       gujarati        |      gu      |        રાજા લાંબુ જીવો        |
+| 34  |    haitian creole     |      ht      |           Viv wa a            |
+| 35  |         hausa         |      ha      |       Ran sarki ya dade       |
+| 36  |       hawaiian        |     haw      |         E ola ke alii         |
+| 37  |        hebrew         |      iw      |           יחי המלך            |
+| 38  |        hebrew         |      he      |           יחי המלך            |
+| 39  |         hindi         |      hi      |         राजा अमर रहें         |
+| 40  |         hmong         |     hmn      |       Vajntxwv kav ntev       |
+| 41  |       hungarian       |      hu      |        Éljen a király         |
+| 42  |       icelandic       |      is      |    Lengi lifi konungurinn     |
+| 43  |         igbo          |      ig      |        Ogologo ndu eze        |
+| 44  |      indonesian       |      id      |       Panjang umur raja       |
+| 45  |         irish         |      ga      |      Go maire sibh an rí      |
+| 46  |        italian        |      it      |       Lunga vita al Re        |
+| 47  |       japanese        |      ja      |             王様万歳              |
+| 48  |       javanese        |      jw      |        Urip sang prabu        |
+| 49  |        kannada        |      kn      |    ರಾಜನು ದೀರ್ಘ ಕಾಲ ಬಾಳಲಿ     |
+| 50  |        kazakh         |      kk      |       Патша аман болсын       |
+| 51  |         khmer         |      km      |     សូម​ព្រះ​រាជា​គង់​យូរ     |
+| 52  |        korean         |      ko      |       폐하, 만수 무 강하 시옵소서        |
+| 53  |  kurdish (kurmanji)   |      ku      |         Bijî padîşah          |
+| 54  |        kyrgyz         |      ky      |        Жашасын падыша         |
+| 55  |          lao          |      lo      |         ອາຍຸຍືນກະສັດ          |
+| 56  |         latin         |      la      |           Vivat rex           |
+| 57  |        latvian        |      lv      |       Lai dzīvo karalis       |
+| 58  |      lithuanian       |      lt      |      Tegyvuoja karalius       |
+| 59  |     luxembourgish     |      lb      |        Vive de Kinnek         |
+| 60  |      macedonian       |      mk      |        Да живее кралот        |
+| 61  |       malagasy        |      mg      |   Ho ela velona ny Mpanjaka   |
+| 62  |         malay         |      ms      |         Daulat Tuanku         |
+| 63  |       malayalam       |      ml      |     രാജാവ് നീണാൾ വാഴട്ടെ      |
+| 64  |        maltese        |      mt      |           Viva r-re           |
+| 65  |         maori         |      mi      |       Kia ora te kingi        |
+| 66  |        marathi        |      mr      |       राजा चिरायू होवो        |
+| 67  |       mongolian       |      mn      |      Хаан урт наслаарай       |
+| 68  |   myanmar (burmese)   |      my      |    သက်တော်ရာကျော်ရှည်ပါစေ။    |
+| 69  |        nepali         |      ne      |         राजा अमर रहोस         |
+| 70  |       norwegian       |      no      |       Lenge leve kongen       |
+| 71  |         odia          |      or      |    ରାଜା ଦୀର୍ଘଜୀବୀ ହୁଅନ୍ତୁ     |
+| 72  |        pashto         |      ps      |       پاچا دې ژوندی وي        |
+| 73  |        persian        |      fa      |         زنده باد شاه          |
+| 74  |        polish         |      pl      |        Niech żyje król        |
+| 75  |      portuguese       |      pt      |       Vida longa ao rei       |
+| 76  |        punjabi        |      pa      |         ਰਾਜੇ ਜਿੰਦਾਬਾਦ         |
+| 77  |       romanian        |      ro      |        Trăiască Regele        |
+| 78  |        russian        |      ru      |     Да здравствует король     |
+| 79  |        samoan         |      sm      |       Ia soifua le tupu       |
+| 80  |     scots gaelic      |      gd      |    Gu ma fada beò an rìgh     |
+| 81  |        serbian        |      sr      |          Живео краљ           |
+| 82  |        sesotho        |      st      |        Le phele morena        |
+| 83  |         shona         |      sn      |       Mambo ngaararame        |
+| 84  |        sindhi         |      sd      |        بادشاھ زنده باد        |
+| 85  |        sinhala        |      si      |   දීර්ඝායුෂ ලැබේවා රජතුමනි    |
+| 86  |        slovak         |      sk      |        Nech žije kráľ         |
+| 87  |       slovenian       |      sl      |        Naj živi kralj         |
+| 88  |        somali         |      so      |      Boqorku ha noolaado      |
+| 89  |        spanish        |      es      |       Larga vida al rey       |
+| 90  |       sundanese       |      su      |          Hirup raja           |
+| 91  |        swahili        |      sw      |         Uishi mfalme          |
+| 92  |        swedish        |      sv      |       Länge leve kungen       |
+| 93  |         tajik         |      tg      |         Зинда бод шоҳ         |
+| 94  |         tamil         |      ta      |          அரசன் வாழ்க          |
+| 95  |        telugu         |      te      |     చిరకాలం జీవించు రాజా      |
+| 96  |         thai          |      th      |          ทรงพระเจริญ          |
+| 97  |        turkish        |      tr      |        Kralım çok yaşa        |
+| 98  |       ukrainian       |      uk      |        Хай живе король        |
+| 99  |         urdu          |      ur      |        بادشاہ زندہ باد        |
+| 100 |        uyghur         |      ug      |        پادىشاھ ياشىسۇن        |
+| 101 |         uzbek         |      uz      |       Yashasin podshoh        |
+| 102 |      vietnamese       |      vi      |        Đức vua vạn tuế        |
+| 103 |         welsh         |      cy      |      Hir oes i'r brenin       |
+| 104 |         xhosa         |      xh      |      Phila ubomi kumkani      |
+| 105 |        yiddish        |      yi      |    לאנג לעבן זאל דער קעניג    |
+| 106 |        yoruba         |      yo      |           E ku oba            |
+| 107 |         zulu          |      zu      |         Iphile nkosi          |
++-----+-----------------------+--------------+-------------------------------+
